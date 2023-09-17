@@ -10,3 +10,7 @@ Content-Type: application/json
 
 
 }
+
+###
+
+http://localhost:3000/subscribers/6506e48f3229260768d41495
